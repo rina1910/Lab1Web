@@ -81,7 +81,7 @@
 
 	Tag `<br>` berfungsi untuk memberikan perintah breakline atau baris baru
 
- ![](foto/foto20.png)
+ ![](Foto/foto20.png)
 
 3. `title` berfungsi untuk memberikan judul pada gambar
 
@@ -89,13 +89,13 @@
 
 	gambar dibawah ini menunjukan perbedaan title dan alt
 
- ![](foto/foto21.png)
+ ![](Foto/foto21.png)
 
-4.Menurut saya Kedua property ini sangat penting dan merupakan bagian yang tidak terpisahkan dari sebuah website karena masing-masing Tag atau Element pada sebuah HTML perlu memiliki ukuran yang ideal, sebab itu berpengaruh dalam pengaturan tataletak dan tampilan sebuah website,
+4. Menurut saya Kedua property ini sangat penting dan merupakan bagian yang tidak terpisahkan dari sebuah website karena masing-masing Tag atau Element pada sebuah HTML perlu memiliki ukuran yang ideal, sebab itu berpengaruh dalam pengaturan tataletak dan tampilan sebuah website,
 
 	Kecuali pada kondisi tertentu seperti gambar sudah memiliki ukuran yang pas/proporsional cukup mengatur width nya saja
 
- ![](foto/foto22.png)  
+ ![](Foto/foto22.png)  
 
 5. `_blank` untuk membuka link di tab baru
 
