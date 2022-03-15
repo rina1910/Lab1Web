@@ -81,7 +81,7 @@
 
 	Tag `<br>` berfungsi untuk memberikan perintah breakline atau baris baru
 
- ![](foto/foto20.png ")
+ ![](foto/foto20.png)
 
 3. `title` berfungsi untuk memberikan judul pada gambar
 
