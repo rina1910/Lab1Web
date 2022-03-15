@@ -10,9 +10,9 @@
 
 <p><strong><hr><mark>LANGKAH - LANGKAH PRATIKUM</mark></hr></strong></p>
 
-1. # <strong>Membuka VSCode</strong>
-<p><strong><i>Persiapan membuka VSCode dan Browser. </i></strong></p>
-            ![](Foto/foto1.png)
+1. ## <strong>Membuka VSCode</strong>
+* <p><i>Persiapan membuka VSCode dan Browser.</i></p> *
+    ![](Foto/foto1.png)
 
 2. # <strong>Kemudian membuat file baru dengan nama lab1_tag_dasar.html dan tambahkan tag dasar dokumen</strong>
 </strong>HTML.</strong>
@@ -22,9 +22,9 @@
             ![](Foto/foto3.png)
 
 3. # <strong>Kemudian file lab1_tag_dasar.html di ketik html : 5</strong>
-       <p><i>dibawah ini tampilan yang akan muncul di VSCode<i></p>
+       * <p><i>dibawah ini tampilan yang akan muncul di VSCode<i></p>
            ![](Foto/foto4.png)
-       <p><i>Setelah itu buka file tersebut pada web browser misalnya Microsoft Edge.</i></p>
+       * <p><i>Setelah itu buka file tersebut pada web browser misalnya Microsoft Edge.</i></p>
            ![](Foto/foto5.png)
 
 4. # <strong>Setelah membuat file lab1_tag_dasar.htlm, langkah selanjutnya sebagi berikut:</strong>
