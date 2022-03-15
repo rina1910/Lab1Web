@@ -43,12 +43,18 @@ HTML.</strong>
        <br><i>Tampilan di Microsoft Edge</i></br>
         ![](Foto/foto10.png)
        <p><br><strong><i>Memformat Teks</i></strong></br><p>
+       <p>Lakukan pemformatan teks yang ada pada paragraf yang sudah ada sebelumnya, mengacu kepada penjelasan materi pemformatan teks, sehingga tampilannya seperti berikut.</p>
        <p><i>Tampilan di VSCode</i></p>
         ![](Foto/foto11.png)
        <br><i>Tampilan di Microsoft Edge</i></br>
         ![](Foto/foto12.png)
        <p><strong><i>Menyisipkan Gambar</i></strong><p>
-        ![](Foto/foto9.png)
+       <p>Untuk menyisipkan gmbar, siapkan gambar yang akan disisipkan pada halaman web, kemudian simpan file gambar tersebut satu folder dengan file dokumen html. Atau bisa juga menyisipkan gambar dari website external.</p>
+        ![](Foto/foto13.png)
+       <p>Kemudian tambahkan tag img setelah paragraf yang kedua, dengan menambahkan heading 3 sebelumnya.</p>
+        ![](Foto/foto14.png)
+       <br><i>Tampilan di Microsoft Edge</i></br>
+        ![](Foto/foto15.png)
        <p><strong><i>Menambahkan Hyperlink</i></strong><p>
         ![](Foto/foto10.png)
     
