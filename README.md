@@ -8,14 +8,14 @@
 
 <p><i>HTML Dasar</i></p>
 
-<p><strong>LANGKAH - LANGKAH PRATIKUM</strong></p>
+<p><strong><hr><mark>LANGKAH - LANGKAH PRATIKUM</mark></hr></strong></p>
 
 1. <strong>Membuka VSCode</strong> 
     ![](Foto/foto1.png)
 
 2. <strong>Kemudian membuat file baru dengan nama lab1_tag_dasar.html dan tambahkan tag dasar dokumen
 HTML.</strong>
-        <p><i><hr>dibawah ini tampilan dari VScode</i></p>
+        <p><i>dibawah ini tampilan dari VScode</i></p>
             ![](Foto/foto2.png)
         <p><i>dibawah ini tampilan dari File Explorer</i></p> 
             ![](Foto/foto3.png)
@@ -27,18 +27,20 @@ HTML.</strong>
        ![](Foto/foto5.png)
 
 4. <strong>Setelah membuat file lab1_tag_dasar.htlm, langkah selanjutnya sebagi berikut: </strong>
-    1. <p><strong><i>Membuat Paragraf</i></strong></p>
-        <p>Langkah yang pertama ini membuat beberapa paragraf sederhana sebagai berikut:<p>
+    <p><strong><i>Membuat Paragraf</i></strong></p>
+    <p>Langkah yang pertama ini membuat beberapa paragraf sederhana sebagai berikut:<p>
+    <br><ins>tampilan di VSCode<ins></br>
         ![](Foto/foto6.png)
-        <p>
-    2. <p><strong><i>Menambah Judul</i></strong><p>
+    <br><ins>tampilan di Microsoft Edge<ins><br>
         ![](Foto/foto7.png)
-    3. <p><strong><i>Memformat Teks</i></strong><p>
-        ![](Foto/foto8.png)
-    4. <p><strong><i>Menyisipkan Gambar</i></strong><p>
-        ![](Foto/foto9.png)
-    5. <p><strong><i>Menambahkan Hyperlink</i></strong><p>
-        ![](Foto/foto10.png)
+    <p><strong><i>Menambah Judul</i></strong><p>
+            ![](Foto/foto7.png)
+    <p><strong><i>Memformat Teks</i></strong><p>
+            ![](Foto/foto8.png)
+    <p><strong><i>Menyisipkan Gambar</i></strong><p>
+            ![](Foto/foto9.png)
+    <p><strong><i>Menambahkan Hyperlink</i></strong><p>
+            ![](Foto/foto10.png)
     
      
 
