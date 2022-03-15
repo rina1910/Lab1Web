@@ -37,13 +37,13 @@ HTML.</strong>
         ![](Foto/foto8.png)
        <p><strong><i>Menambah Judul</i></strong><p>
        <p>Seperti sudah dijelaskan pada materi bahwa judul memiliki 6 level yaitu mulai h1 sampai h6.Kemudian   tambahkan judul h1 sebelum paragraf pertama dan tambahkan sub judul h2 sebelum paragraf kedua.</p>
-       <br><i>Tampilan di VSCode</i></br>
+       <i>Tampilan di VSCode</i>
         ![](Foto/foto9.png)
        <p>Simpan perubahannya dan lihat hasilnya dengan melakukan refresh pada browser.</p>
        <br><i>Tampilan di Microsoft Edge</i></br>
         ![](Foto/foto10.png)
-       <p><strong><i>Memformat Teks</i></strong><p>
-       <br><i>Tampilan di VSCode</i></br>
+       <p><br><strong><i>Memformat Teks</i></strong></br><p>
+       <p><i>Tampilan di VSCode</i></p>
         ![](Foto/foto11.png)
        <br><i>Tampilan di Microsoft Edge</i></br>
         ![](Foto/foto12.png)
