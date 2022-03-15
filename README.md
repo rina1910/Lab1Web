@@ -23,12 +23,20 @@ HTML.</strong>
 3. <strong>Kemudian file lab1_tag_dasar.html di ketik html : 5</strong>
        <p><i>dibawah ini tampilan yang akan muncul di VSCode<i></p>
        ![](Foto/foto4.png)
-    <p><i>Setelah itu buka file tersebut pada web browser misalnya Microsoft Edge.</i></p>
+       <p><i>Setelah itu buka file tersebut pada web browser misalnya Microsoft Edge.</i></p>
        ![](Foto/foto5.png)
 
 4. <strong>Setelah membuat file lab1_tag_dasar.htlm, langkah selanjutnya sebagi berikut: </strong>
-    1. <p><strong><i>Membuat Paragraf</strong></i></p>
+    1. <p><strong><i>Membuat Paragraf</i></strong></p>
         ![](Foto/foto6.png)
+    2. <p><strong><i>Menambah Judul</i></strong><p>
+        ![](Foto/foto7.png)
+    3. <p><strong><i>Memformat Teks</i></strong><p>
+        ![](Foto/foto8.png)
+    4. <p><strong><i>Menyisipkan Gambar</i></strong><p>
+        ![](Foto/foto1.png)
+    5. <p><strong><i>Menambahkan Hyperlink</i></strong><p>
+        ![](Foto/foto9.png)
     
      
 
