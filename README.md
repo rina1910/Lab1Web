@@ -40,7 +40,6 @@ HTML.</strong>
        <br><i>Tampilan di VSCode</i></br>
         ![](Foto/foto9.png)
        <p>Simpan perubahannya dan lihat hasilnya dengan melakukan refresh pada browser.</p>
-       <p>Simpan perubahannya dan lihat hasilnya dengan melakukan refresh pada browser.<p>
        <br><i>Tampilan di Microsoft Edge</i></br>
         ![](Foto/foto10.png)
        <p><strong><i>Memformat Teks</i></strong><p>
