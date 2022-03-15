@@ -33,14 +33,25 @@ HTML.</strong>
         ![](Foto/foto6.png)
        <br><ins>tampilan di Microsoft Edge<ins><br>
         ![](Foto/foto7.png)
+       <br><i>Kemudian atur atribut paragraf seperti berikut <b>align<b>, dan amati perubahanya dibawah ini </i>
+        ![](Foto/foto8.png)
        <p><strong><i>Menambah Judul</i></strong><p>
-            ![](Foto/foto7.png)
+       <p>Seperti sudah dijelaskan pada materi bahwa judul memiliki 6 level yaitu mulai h1 sampai h6.Kemudian   tambahkan judul h1 sebelum paragraf pertama dan tambahkan sub judul h2 sebelum paragraf kedua.</p>
+       <br><i>Tampilan di VSCode</i></br>
+        ![](Foto/foto9.png)
+       <p>Simpan perubahannya dan lihat hasilnya dengan melakukan refresh pada browser.</p>
+       <p>Simpan perubahannya dan lihat hasilnya dengan melakukan refresh pada browser.<p>
+       <br><i>Tampilan di Microsoft Edge</i></br>
+        ![](Foto/foto10.png)
        <p><strong><i>Memformat Teks</i></strong><p>
-            ![](Foto/foto8.png)
+       <br><i>Tampilan di VSCode</i></br>
+        ![](Foto/foto11.png)
+       <br><i>Tampilan di Microsoft Edge</i></br>
+        ![](Foto/foto12.png)
        <p><strong><i>Menyisipkan Gambar</i></strong><p>
-            ![](Foto/foto9.png)
-     <p><strong><i>Menambahkan Hyperlink</i></strong><p>
-            ![](Foto/foto10.png)
+        ![](Foto/foto9.png)
+       <p><strong><i>Menambahkan Hyperlink</i></strong><p>
+        ![](Foto/foto10.png)
     
      
 
