@@ -12,7 +12,7 @@
 
 1. <strong>Membuka VSCode</strong>
 <p><strong><i>Persiapan membuka VSCode dan Browser. </i></strong></p>
-    ![](Foto/foto1.png)
+![](Foto/foto1.png)
 
 2. <strong>Kemudian membuat file baru dengan nama lab1_tag_dasar.html dan tambahkan tag dasar dokumen
 HTML.</strong>
