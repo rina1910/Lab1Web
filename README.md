@@ -15,21 +15,21 @@
             ![](Foto/foto1.png)
 
 2. # *Kemudian membuat file baru dengan nama lab1_tag_dasar.html dan tambahkan tag dasar dokumen*
-HTML.</strong>
-        <p><i>dibawah ini tampilan dari VScode</i></p>
-            ![](Foto/foto2.png)
-        <p><i>dibawah ini tampilan dari File Explorer</i></p> 
-            ![](Foto/foto3.png)
+     <p>HTML</p>
+       <p><i>dibawah ini tampilan dari VScode</i></p>
+         ![](Foto/foto2.png)
+       <p><i>dibawah ini tampilan dari File Explorer</i></p> 
+         ![](Foto/foto3.png)
 
-3. # *Kemudian file lab1_tag_dasar.html di ketik html : 5*
+3. # <b>Kemudian file lab1_tag_dasar.html di ketik html : 5</b>
        <p><i>dibawah ini tampilan yang akan muncul di VSCode<i></p>
        ![](Foto/foto4.png)
        <p><i>Setelah itu buka file tersebut pada web browser misalnya Microsoft Edge.</i></p>
        ![](Foto/foto5.png)
 
 4. # *Setelah membuat file lab1_tag_dasar.htlm, langkah selanjutnya sebagi berikut:*
-       <p><strong><i>Membuat Paragraf</i></strong></p>
-       <p>Langkah yang pertama ini membuat beberapa paragraf sederhana sebagai berikut:<p>
+    <p><strong><i>Membuat Paragraf</i></strong></p>
+    <p>Langkah yang pertama ini membuat beberapa paragraf sederhana sebagai berikut:<p>
        <br><ins>tampilan di VSCode<ins></br>
         ![](Foto/foto6.png)
        <br><ins>tampilan di Microsoft Edge<ins><br>
