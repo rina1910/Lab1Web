@@ -15,9 +15,9 @@
 
 2. <strong>Kemudian membuat file baru dengan nama lab1_tag_dasar.html dan tambahkan tag dasar dokumen
 HTML.</strong>
-        <p><i>dibawah ini tampilan dari VScode</i></p>
+        <p><i><hr>dibawah ini tampilan dari VScode</i></p>
             ![](Foto/foto2.png)
-        <p><i>dibawah ini tampilan dari File Explorer</i</p> 
+        <p><i>dibawah ini tampilan dari File Explorer</i></p> 
             ![](Foto/foto3.png)
 
 3. <strong>Kemudian file lab1_tag_dasar.html di ketik html : 5</strong>
@@ -28,15 +28,17 @@ HTML.</strong>
 
 4. <strong>Setelah membuat file lab1_tag_dasar.htlm, langkah selanjutnya sebagi berikut: </strong>
     1. <p><strong><i>Membuat Paragraf</i></strong></p>
+        <p>Langkah yang pertama ini membuat beberapa paragraf sederhana sebagai berikut:<p>
         ![](Foto/foto6.png)
+        <p>
     2. <p><strong><i>Menambah Judul</i></strong><p>
         ![](Foto/foto7.png)
     3. <p><strong><i>Memformat Teks</i></strong><p>
         ![](Foto/foto8.png)
     4. <p><strong><i>Menyisipkan Gambar</i></strong><p>
-        ![](Foto/foto1.png)
-    5. <p><strong><i>Menambahkan Hyperlink</i></strong><p>
         ![](Foto/foto9.png)
+    5. <p><strong><i>Menambahkan Hyperlink</i></strong><p>
+        ![](Foto/foto10.png)
     
      
 
