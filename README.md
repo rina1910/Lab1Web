@@ -55,11 +55,13 @@
     <strong>Kemudian tambahkan tag img setelah paragraf yang kedua, dengan menambahkan heading 3 sebelumnya.</p>
         ![](Foto/foto14.png)
     </strong><i>Simpan perubahannya, kemudian refresh browser.<i></strong>
+
     </strong><i>Tampilan di Microsoft Edge</i></strong>
         ![](Foto/foto15.png)
-    <strong><i>Menambahkan Hyperlink</i></strong>
+* <strong><i>Menambahkan Hyperlink</i></strong>
     <strong><i>Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut.</i></strong>
         ![](Foto/foto16.png)
+
     <strong><i>Tampilan di Microsoft Edge</i></strong>
         ![](Foto/foto17.png)
 
@@ -73,8 +75,7 @@
 # *Jawaban*
 1. Saya melakukan perubahan pada tag html, gambar yang ada dibawah ini yaitu merupakan syntax HTML di VSCode sebelum saya merubahnya
  ![](Foto/foto18.png)
- Lalu ketika saya hilangkan akhiran pada Tag `</h1>`menjadi `<h1>`, maka yang akan terjadi seluruh elemen dibawah tag tersebut akan berubah mengikuti Tag `<h1>` dikarenakan tidak ada akhiran/penutup Tag tersebut. Seperti gambar dibawah ini.
- ![](Foto/foto19.png)
+ Lalu ketika saya hilangkan akhiran pada Tag `</h1>`menjadi `<h1>`, maka yang akan terjadi seluruh elemen dibawah tag tersebut akan berubah mengikuti Tag `<h1>` dikarenakan tidak ada akhiran/penutup Tag tersebut. 
 
 2. Tag `<p>` berfungsi untuk memberi perintah paragraf pada halaman html
 
@@ -86,12 +87,12 @@
 	`alt` berfungsi untuk menunjukkan sebuah alternate text (teks pengganti) yang akan muncul apabila gambar tidak dapat ditampilkan.
 
 	gambar dibawah ini menunjukan perbedaan title dan alt
-![foto](foto/foto21.png "alt title")
+![](foto/foto21.png "alt title")
 
 4.Menurut saya Kedua property ini sangat penting dan merupakan bagian yang tidak terpisahkan dari sebuah website karena masing-masing Tag atau Element pada sebuah HTML perlu memiliki ukuran yang ideal, sebab itu berpengaruh dalam pengaturan tataletak dan tampilan sebuah website,
 
 	Kecuali pada kondisi tertentu seperti gambar sudah memiliki ukuran yang pas/proporsional cukup mengatur width nya saja
-![foto](foto/foto22.png)  
+![](foto/foto22.png)  
 
 5. `_blank` untuk membuka link di tab baru
 
