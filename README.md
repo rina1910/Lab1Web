@@ -72,9 +72,9 @@
 
 # *Jawaban*
 1. Saya melakukan perubahan pada tag html, gambar yang ada dibawah ini yaitu merupakan syntax HTML di VSCode sebelum saya merubahnya
- ![](foto/foto18.png)
+ ![](Foto/foto18.png)
  Lalu ketika saya hilangkan akhiran pada Tag `</h1>`menjadi `<h1>`, maka yang akan terjadi seluruh elemen dibawah tag tersebut akan berubah mengikuti Tag `<h1>` dikarenakan tidak ada akhiran/penutup Tag tersebut. Seperti gambar dibawah ini.
- ![](foto/foto19.png)
+ ![](Foto/foto19.png)
 
 2. Tag `<p>` berfungsi untuk memberi perintah paragraf pada halaman html
 
