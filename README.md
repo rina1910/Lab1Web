@@ -29,28 +29,28 @@
 
 4. # <strong>Setelah membuat file lab1_tag_dasar.htlm, langkah selanjutnya sebagi berikut:</strong>
 * <strong><i>Membuat Paragraf</i></strong>
-   <strong>Langkah yang pertama ini membuat beberapa paragraf sederhana sebagai berikut:<p>
-   </strong><ins>tampilan di VSCode<ins></strong>
+   <strong><br>Langkah yang pertama ini membuat beberapa paragraf sederhana sebagai berikut:</br>
+   <strong><ins>tampilan di VSCode<ins></strong>
       ![](Foto/foto6.png)
    </strong><ins>tampilan di Microsoft Edge<ins></strong>
       ![](Foto/foto7.png)
-   </strong><i>Kemudian atur atribut paragraf seperti berikut <b>align<b>, dan amati perubahanya dibawah ini </i>
+   </strong><i>Kemudian atur atribut paragraf seperti berikut <b>align</b>, dan amati perubahanya dibawah ini </i>
       ![](Foto/foto8.png)
 * <strong><i>Menambah Judul</i></strong>
-   <strong>Seperti sudah dijelaskan pada materi bahwa judul memiliki 6 level yaitu mulai h1 sampai h6.Kemudian tambahkan judul h1 sebelum paragraf pertama dan tambahkan sub judul h2 sebelum paragraf kedua.
+   <strong><br>Seperti sudah dijelaskan pada materi bahwa judul memiliki 6 level yaitu mulai h1 sampai h6.Kemudian tambahkan judul h1 sebelum paragraf pertama dan tambahkan sub judul h2 sebelum paragraf kedua.</br></strong>
       <strong><i>Tampilan di VSCode</i>
         ![](Foto/foto9.png)
       <strong>Simpan perubahannya dan lihat hasilnya dengan melakukan refresh pada browser.</strong>
       <strong><i>Tampilan di Microsoft Edge</i></br>
         ![](Foto/foto10.png)
 * <strong><i>Memformat Teks</i></strong>
-    <strong>Lakukan pemformatan teks yang ada pada paragraf yang sudah ada sebelumnya, mengacu kepada penjelasan materi pemformatan teks, sehingga tampilannya seperti berikut.</strong>
+    <strong><br>Lakukan pemformatan teks yang ada pada paragraf yang sudah ada sebelumnya, mengacu kepada penjelasan materi pemformatan teks, sehingga tampilannya seperti berikut.</br></strong>
     <strong><i>Tampilan di VSCode</i></strong>
         ![](Foto/foto11.png)
     </strong><i>Tampilan di Microsoft Edge</i></strong>
         ![](Foto/foto12.png)
 * <strong><i>Menyisipkan Gambar</i></strong>
-    <strong>Untuk menyisipkan gmbar, siapkan gambar yang akan disisipkan pada halaman web, kemudian simpan file gambar tersebut satu folder dengan file dokumen html. Atau bisa juga menyisipkan gambar dari website external.</strong>
+    <strong><br>Untuk menyisipkan gmbar, siapkan gambar yang akan disisipkan pada halaman web, kemudian simpan file gambar tersebut satu folder dengan file dokumen html. Atau bisa juga menyisipkan gambar dari website external.</br></strong>
         ![](Foto/foto13.png)
     <strong>Kemudian tambahkan tag img setelah paragraf yang kedua, dengan menambahkan heading 3 sebelumnya.</p>
         ![](Foto/foto14.png)
