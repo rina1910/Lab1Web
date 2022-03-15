@@ -10,7 +10,8 @@
 
 <p><strong><hr><mark>LANGKAH - LANGKAH PRATIKUM</mark></hr></strong></p>
 
-1. <strong>Membuka VSCode</strong> 
+1. <strong>Membuka VSCode</strong>
+<p><strong><i>Persiapan membuka VSCode dan Browser. </i></strong></p>
     ![](Foto/foto1.png)
 
 2. <strong>Kemudian membuat file baru dengan nama lab1_tag_dasar.html dan tambahkan tag dasar dokumen
@@ -53,10 +54,20 @@ HTML.</strong>
         ![](Foto/foto13.png)
        <p>Kemudian tambahkan tag img setelah paragraf yang kedua, dengan menambahkan heading 3 sebelumnya.</p>
         ![](Foto/foto14.png)
+       <i>Simpan perubahannya, kemudian refresh browser.<i>
        <br><i>Tampilan di Microsoft Edge</i></br>
         ![](Foto/foto15.png)
        <p><strong><i>Menambahkan Hyperlink</i></strong><p>
-        ![](Foto/foto10.png)
+       <br><i>Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut.</br></i>
+        ![](Foto/foto16.png)
+       <br><i>Tampilan di Microsoft Edge</i></br>
+        ![](Foto/foto17.png)
+<p><br><strong><ins>Jawab Pertanyaan Berikut</ins><strong></br></p>
+<br>1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi  kesalahan penulisan tag?
+<br>2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya! </br>
+<br>3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
+<br>4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!</br>
+<br>5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?</br>
     
      
 
